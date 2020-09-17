@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GoLang, Node.js and Kotlin
 - 👯 I’m looking to collaborate on interview preparation 
 - 🤔 I’m looking for help with contributing to open source
-- 💬 Ask me about my coffee addiction
+- 💬 Ask me about making pour over coffee :) 
 - 📫 How to reach me: [email](heafieldl@wit.edu) or [linkedin](https://www.linkedin.com/in/luke-heafield/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I recently started reading a book every week
