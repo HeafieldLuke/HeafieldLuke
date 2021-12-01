@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Luke
 
-- 🔭 I’m currently working on getting my AWS Certified Solutions Architect Associate Cert
-- 🌱 I’m currently learning Elm, Elixir and Phoenix
-- 👯 I’m looking to collaborate on workshops for teaching students
-- 🤔 I’m looking for help with contributing to open source
-- 💬 Ask me about making pour over coffee
+- 🔭 I’m currently working on how to write code with first class types!
+- 🌱 I’m currently learning Idris and Go
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for book suggestions!
+- 💬 Ask me about my coffee addiction ☕
 - 📫 How to reach me: [email](heafieldl@wit.edu) or [linkedin](https://www.linkedin.com/in/luke-heafield/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I recently started reading a book every week
+- ⚡ Fun fact: I'm an avid reader, and got through nearly 30 books this year!
